@@ -23,37 +23,40 @@ brew install node
 brew install thefuck #Programatically correct mistyped console commands
 brew install fasd #cl productivy tool for file system nav
 brew install zsh-completions #cl auto complete ++
+brew install awscli
+brew install htop #sys resource monitor
+brew install nmap #network security scanner
+brew install lynx #command line web browser
+brew install links #command line web browser
+brew install geoip #geolocation data for inputed IP
+brew install irssi #rtfm #linux chat 
+brew install bash-completion 
+brew install watch #keep eye on other process
+brew install speedtest_cli
+brew install ansiweather #ansiweather -l Denver,CO -u imperial
+brew install calc
+brew install dockutil  #rtfm #linux chat # --add http://www.codyjo.com --label CodyJo
+brew install irssi
+brew install irssi #rtfm #linux chat 
+brew install imagemagick #convert ee.png ee.jpg or convert -border 1x1 -bordercolor black ee.png resultee.png
+brew install darkmode
+brew install cowsay #cowsay -f dragon hello
+
 
 # Install desired cask packages
-brew cask install chrome
+brew cask install google-chrome
 brew cask install github
 brew cask install pycharm-ce #Python IDE
+brew cask install java
 brew cask install intellij-idea-ce #Java IDE 
 brew cask install lastpass #password manager
-brew cask install alfred #productivity suite
 brew cask install sublime-text #simple text editor
-brew cask install beamer #stream 15 min video to appleTv/chromecast free ver or upgrade
-brew cask install betterzip #file zipper
 brew cask install caffeine #puts tiny icon on right side of menu that you click to prevent mac from sleeping
 brew cask install cakebrew #GUI for brew
-#brew cask install coconutbattery #Battery health
+brew cask install coconutbattery #Battery health
 brew cask install dropbox 
-brew cask install forklift #ftp/sftp/webdav/s3 client
-brew cask install franz #Slack, WhatsApp, WeChat, HipChat, Facebook Messenger, Telegram, Google Hangouts,GroupMe, Skype ++
-brew cask install imageoptim #image optimization tools 
-brew cask install kakapo #open source ambient sound mixer for relaxation or productivity https://github.com/bluedaniel/Kakapo-app
 brew cask install little-snitch #Network Monitor - list of app & servers, web of global connections, 1 hr of data traffic.
-brew cask install marked #Markdown preview & toolset for writers
-brew cask install mpv #cross-platform media player
-brew cask install qlimagesize #Displays image & file size in title bar
-brew cask install qlmarkdown #WQuickly view markdown files
-brew cask install tg-pro #Temp sensors, fan speeds, etc
-brew cask install the-unarchiver #RAR extractor
-brew cask install transmission #BitTorrent client
-brew cask install viscosity #VPN Client
-brew cask install xld #Lossless Decoder
 brew cask install spotify
-brew cask install spotify-notifications
 brew cask install iterm2
 
 
